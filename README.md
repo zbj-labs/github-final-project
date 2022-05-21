@@ -1,6 +1,6 @@
 # github-final-project
 
-A sandbox Github repo for the module *Getting started with Git and Github*.
+> A sandbox Github repo for the module *Getting started with Git and Github*.
 
 ## Simple interest
 
